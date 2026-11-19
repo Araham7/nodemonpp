@@ -1,0 +1,6 @@
+{
+  "watch": ["src", "include", "CMakeLists.txt", ".env"],
+  "ignore": ["build", "uploads"],
+  "delay": 300,
+  "env": { "EXPRESS_ENV": "development" }
+}
